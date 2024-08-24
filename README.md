@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=98jiyong&theme=vue)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&theme=vue))<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&theme=vue)<br>
 
 
 ### Machine Learning Engineer, Engineering Manager

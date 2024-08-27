@@ -7,13 +7,10 @@
 ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![GOOGLECOLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
 -->
-
 <div align="center">
-  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&theme=vue">
-
+  
   ### Hi! This is Jiyong’s GitHub 👋
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 

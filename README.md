@@ -14,16 +14,20 @@
   ### Hi! This is Jiyong’s GitHub 👋
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <div align ="left">
+  <div>
   
-  ### 📚 Now Studying... 📚
+  ### 📚 Tech Stack 📚
     
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)<br>
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-  ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![TAILWIND](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white)<br>
+  ![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+  ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-flat&logo=spring&logoColor=white)
+  ![THYMELEAF](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
   </div>
   
 </div>

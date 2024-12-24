@@ -23,7 +23,7 @@
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)<br>
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![TAILWIND](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white)
-  ![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=flat&logo=Fontawesome&logoColor=white)
+  ![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=flat&logo=Fontawesome&logoColor=white)<br>
   ![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
   ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)

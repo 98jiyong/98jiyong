@@ -84,7 +84,7 @@
 
 ## 💬 Contact
 - 98jiyong@gmail.com
-- <a href="https://98jiyong.github.io/about_me/" target="_blank">profile_site</a>
+- <a href="https://98jiyong.github.io/about_me/" target="_blank" >profile_site</a>
 
 ---
 

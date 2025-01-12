@@ -99,8 +99,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong">
 <img src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true">
 -->
-## 백준 티
-
 
 <!--
 <a href="https://github.com/devxb/gitanimals">
@@ -114,5 +112,4 @@
 
 ---
 
-## VISIT
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)

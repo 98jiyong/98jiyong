@@ -78,6 +78,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong">
 <img src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true">
 
+![snake gif](https://github.com/98jiyong/98jiyong/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 <a href="https://github.com/devxb/gitanimals">
 <img

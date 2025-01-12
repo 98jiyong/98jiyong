@@ -84,7 +84,7 @@
 
 ## 💬 Contact
 - <a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/About&nbsp;Me-40AEF0?style=flat&logo=&logoColor=white)</a>
-- <a href="98jiyong@gmail.com" target="_blank" >![EMAIL](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=GMAIL&logoColor=white)</a>
+- <a href="mailto:﻿"98jiyong@gmail.com" >![EMAIL](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=GMAIL&logoColor=white)</a>
 
 ---
 

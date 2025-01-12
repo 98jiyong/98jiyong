@@ -10,10 +10,12 @@
 -->
 
 <!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&duration=3000&pause=1000&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=1000&center=true&multiline=true&width=600&lines=%F0%9F%91%8B+Welcome+to+Jiyong's+Github+!" alt="Typing SVG" /></a>
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=1000&multiline=true&width=600&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%A0%80%EB%8A%94+%EC%A0%95%EC%A7%80%EC%9A%A9+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
----
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=36BCF7FF&textBg=false">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=3000&pause=1000&center=true&multiline=true&width=600&height=60&lines=%F0%9F%91%8B+Welcome+to+Jiyong's+Github+!)](https://git.io/typing-svg)
 
 > 안녕하세요 ! 성실함의 아이콘 정지용 입니다.<br>
 > 기술적인 역량뿐만 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,<br>

@@ -12,8 +12,8 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&duration=3000&pause=1000&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=30&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%A0%80%EB%8A%94+%EC%A0%95%EC%A7%80%EC%9A%A9+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=1000&multiline=true&width=600&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%A0%80%EB%8A%94+%EC%A0%95%EC%A7%80%EC%9A%A9+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+<hr>
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)

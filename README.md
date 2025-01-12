@@ -21,7 +21,6 @@
 > 기술적인 역량뿐만 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,<br>
 > 어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고 싶습니다.<br>
 
----
   
 ## 🔨 사용 가능한 기술 스택
 
@@ -61,9 +60,8 @@
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
  
-### 🥇 자격증
+## 🥇 자격증
 - ITQ
 - 정보처리기능사
 - 정보처리산업기사
@@ -80,14 +78,11 @@
 -->
 </div>
 
----
 
 ## 💬 추가 정보
 - <a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/프로필&nbsp;사이트&nbsp;가기-40AEF0?style=flat&logo=&logoColor=white)</a>
 - <a href='tel:010-8740-5966'>![PHONE](https://img.shields.io/badge/연락처-4CDD76?style=flat&logo=&logoColor=white)</a>
 - <a href="mailto:﻿98jiyong@gmail.com">![EMAIL](https://img.shields.io/badge/이메일-EA4335?style=flat&logo=&logoColor=white)</a>
-
----
 
 ## 📊 통계
 
@@ -108,8 +103,5 @@
   height="300"
 />
 </a>
--->
-
----
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+-->

@@ -8,13 +8,21 @@
 ![GOOGLECOLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![SUBLIME TEXT](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 -->
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&theme=vue">
-  
-  ### Hi! This is Jiyong’s GitHub 👋
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <div>
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&duration=3000&pause=1000&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=30&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%A0%80%EB%8A%94+%EC%A0%95%EC%A7%80%EC%9A%A9+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+---
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+
+
+
+
   
   ### 📚 Tech Stack 📚
     
@@ -37,7 +45,6 @@
 
 <div>
   
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&theme=vue">
   
   ### 👩‍💻 IDE I've Used... 👩‍💻
   ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -55,12 +62,6 @@
 </div>
 
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=98jiyong&theme=vue)](https://git.io/streak-stats)
--->
-
-
-
 <div align=center>
 <!--
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
@@ -71,6 +72,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 -->
 </div>
+
+## 📊 GitHub 통계
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong">
+<img src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true">
+
 <!--
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -81,17 +88,3 @@
 </a>
 -->
 
-<!--
-**98jiyong/98jiyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

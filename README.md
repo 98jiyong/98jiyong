@@ -82,22 +82,24 @@
 
 ---
 
-## 💬 Contact
+## 💬 추가 정보
 - <a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/프로필&nbsp;사이트&nbsp;가기-40AEF0?style=flat&logo=&logoColor=white)</a>
 - <a href='tel:010-8740-5966'>![PHONE](https://img.shields.io/badge/연락처-4CDD76?style=flat&logo=&logoColor=white)</a>
 - <a href="mailto:﻿98jiyong@gmail.com">![EMAIL](https://img.shields.io/badge/이메일-EA4335?style=flat&logo=&logoColor=white)</a>
 
 ---
 
-## 📊 GitHub 통계
+## 📊 통계
 
-| <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&hide_border=true" alt="98jiyong's github stats" /></a> | <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&hide_border=true" alt="98jiyong's github stats" /></a> | <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&hide_border=true" /></a> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=98jiyong)](https://solved.ac/98jiyong/) |
+| ------------- | ------------- | ------------- |
+
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong">
 <img src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true">
 -->
+## 백준 티
 
 
 <!--

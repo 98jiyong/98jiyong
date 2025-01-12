@@ -26,40 +26,40 @@
 ## 🔨 사용 가능한 기술 스택
 
 ### 언어
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 프론트엔드
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TAILWIND](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
-  ![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=for-the-badge&logo=Fontawesome&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![JS](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=for-the-badge&logo=Fontawesome&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JS](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white)
 
 ### 백엔드
-  ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![SPRINGBOOT](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![SPRINGSECURITY](https://img.shields.io/badge/Spring&nbsp;Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-  ![THYMELEAF](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-  ![JSP](https://img.shields.io/badge/JSP-FF4500?style=for-the-badge&logo=JSP&logoColor=white)
-  ![GRADLE](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SPRINGSECURITY](https://img.shields.io/badge/Spring&nbsp;Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![THYMELEAF](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FF4500?style=for-the-badge&logo=JSP&logoColor=white)
+![GRADLE](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### 서버
- ![APACHE TOMCAT](https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white)
- ![APACHE MAVEN](https://img.shields.io/badge/Apache&nbsp;Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
+![APACHE TOMCAT](https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white)
+![APACHE MAVEN](https://img.shields.io/badge/Apache&nbsp;Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
   
 ### 데이터베이스
-  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
   
 ### 버전관리
- ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
- ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
  
@@ -83,8 +83,8 @@
 ---
 
 ## 💬 Contact
-- 98jiyong@gmail.com
-- <a href="https://98jiyong.github.io/about_me/" target="_blank" >profile_site</a>
+- <a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/About&nbsp;Me-40AEF0?style=flat&logo=&logoColor=white)</a>
+- <a href="98jiyong@gmail.com" target="_blank" >![EMAIL](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=GMAIL&logoColor=white)</a>
 
 ---
 

@@ -13,54 +13,59 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&duration=3000&pause=1000&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=1000&multiline=true&width=600&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%A0%80%EB%8A%94+%EC%A0%95%EC%A7%80%EC%9A%A9+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-<hr>
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-
-
-
-
-
-  
-  ### 📚 Tech Stack 📚
-    
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)<br>
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![TAILWIND](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=flat&logo=Tailwindcss&logoColor=white)
-  ![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=flat&logo=Fontawesome&logoColor=white)<br>
-  ![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
-  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-  ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-flat&logo=spring&logoColor=white)
-  ![THYMELEAF](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
-  </div>
-  
-</div>
-
 ---
 
-<div>
-  
-  
-  ### 👩‍💻 IDE I've Used... 👩‍💻
-  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+> 안녕하세요 ! 성실함의 아이콘 정지용 입니다.<br>
+> 기술적인 역량뿐만 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,<br>
+> 어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고 싶습니다.<br>
 
+---
+  
+## 🔨 사용 가능한 기술 스택
 
-  ### ✏️ Remind Again Later... ✏️
+### 언어
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-  
-</div>
+### 프론트엔드
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TAILWIND](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+  ![FONTAWESOME](https://img.shields.io/badge/Font&nbsp;Awesome-538DD7?style=for-the-badge&logo=Fontawesome&logoColor=white)
+  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![JS](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white)
 
+### 백엔드
+  ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![SPRINGBOOT](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![SPRINGSECURITY](https://img.shields.io/badge/Spring&nbsp;Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+  ![THYMELEAF](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+  ![JSP](https://img.shields.io/badge/JSP-FF4500?style=for-the-badge&logo=JSP&logoColor=white)
+  ![GRADLE](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### 서버
+ ![APACHE TOMCAT](https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white)
+ ![APACHE MAVEN](https://img.shields.io/badge/Apache&nbsp;Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
+  
+### 데이터베이스
+  ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+  
+### 버전관리
+ ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+ 
+### 🥇 자격증
+- ITQ
+- 정보처리기능사
+- 정보처리산업기사
+- 컴퓨터활용능력 1급
 
 <div align=center>
 <!--
@@ -73,10 +78,24 @@
 -->
 </div>
 
-## 📊 GitHub 통계
 ---
+
+## 💬 Contact
+- 98jiyong@gmail.com
+- 98jiyong.github.io/about_me
+
+---
+
+## 📊 GitHub 통계
+
+| <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&hide_border=true" alt="98jiyong's github stats" /></a> | <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong">
 <img src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true">
+-->
+
 
 <!--
 <a href="https://github.com/devxb/gitanimals">
@@ -88,3 +107,7 @@
 </a>
 -->
 
+---
+
+## VISIT
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F98jiyong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)

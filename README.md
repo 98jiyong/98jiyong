@@ -85,9 +85,12 @@
 - <a href="mailto:﻿98jiyong@gmail.com">![EMAIL](https://img.shields.io/badge/이메일-EA4335?style=flat&logo=&logoColor=white)</a>
 
 ## 📊 통계
-
+<!--
 | <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&hide_border=true" alt="98jiyong's github stats" /></a> | <a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&hide_border=true" /></a> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=98jiyong)](https://solved.ac/98jiyong/) |
 | ------------- | ------------- | ------------- |
+-->
+<a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=98jiyong&show_icons=true&hide_border=true" alt="98jiyong's github stats" /></a><a href="https://github.com/98jiyong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98jiyong&layout=compact&hide_border=true" /></a> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=98jiyong)](https://solved.ac/98jiyong/)
 
 
 <!--

@@ -80,9 +80,11 @@
 
 
 ## 💬 추가 정보
-- <a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/프로필&nbsp;사이트&nbsp;가기-40AEF0?style=flat&logo=&logoColor=white)</a>
-- <a href='tel:010-8740-5966'>![PHONE](https://img.shields.io/badge/연락처-4CDD76?style=flat&logo=&logoColor=white)</a>
-- <a href="mailto:﻿98jiyong@gmail.com">![EMAIL](https://img.shields.io/badge/이메일-EA4335?style=flat&logo=&logoColor=white)</a>
+|항목|정보|
+|--|--|
+|링크|<a href="https://98jiyong.github.io/about_me/" target="_blank" >![ABOUTME](https://img.shields.io/badge/프로필&nbsp;사이트&nbsp;가기-40AEF0?style=&logo=logo&Color=white)</a>|
+|연락처|<a href='tel:010-8740-5966'>![PHONE](https://img.shields.io/badge/01087405966-4CDD76?style=badge&logo=&logoColor=white)</a>|
+|이메일|<a href="mailto:﻿98jiyong@gmail.com">![EMAIL](https://img.shields.io/badge/98jiyong@gmail.com-EA4335?style=flat&logo=&logoColor=white)</a>|
 
 ## 📊 통계
 <!--
